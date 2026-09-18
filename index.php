@@ -46,7 +46,7 @@ $ruta_archivo = "paginas/" . $pagina_segura . ".html";
                 <h3>Magia y Equipo</h3>
                 <ul>
                     <li><a href="index.php?page=hechizos">Hechizos</a></li>
-                    <li><a href="index.php?page=armas">Armas y Armaduras</a></li>
+                    <li><a href="index.php?page=armas_y_armaduras">Armas y Armaduras</a></li>
                     <li><a href="index.php?page=objetos_magicos">Objetos Mágicos</a></li>
                 </ul>
             </td>
